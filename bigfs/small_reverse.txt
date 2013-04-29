@@ -1,0 +1,4 @@
+jonathan		;jonl.org          1000          5,13,52;ujumbo.com          10          5,13,52
+leung		;jonl.org          10000          5,13,52;ujumbo.com          10          5,13,52
+alexey		;alexeymk.com          1000          5,13,52;alexeymk.com          1000          5,13,52
+mk		;alexeymk.com          1000          5,13,52;alexeymk.com          100          5,13,52

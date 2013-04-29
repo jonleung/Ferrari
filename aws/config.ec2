@@ -1,0 +1,8 @@
+sudo apt-get install make
+sudo apt-get install gcc
+
+wget http://redis.googlecode.com/files/redis-2.6.9.tar.gz
+tar -zxf redis-2.6.9.tar.gz
+cd redis-2.6.9
+make
+sudo make install

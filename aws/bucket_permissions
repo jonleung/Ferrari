@@ -1,0 +1,14 @@
+{
+	"Version": "2008-10-17",
+	"Statement": [
+		{
+			"Sid": "Stmt1366029639411",
+			"Effect": "Allow",
+			"Principal": {
+				"AWS": "*"
+			},
+			"Action": "s3:*",
+			"Resource": "arn:aws:s3:::jonathansbucket/*"
+		}
+	]
+}
